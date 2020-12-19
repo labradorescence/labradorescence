@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on implementing d3 on my react wine web app
+- 🔭 I’m currently writing a blog about observable, css for my d3/react wine tasting project
 - 🌱 I’m currently learning deeply about react
 - 👯 I’m looking to study together for JS algorithm
 - 🤔 I’m looking for help with D3 and react
