@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently writing a blog about observable, css for my d3/react wine tasting project
-- 🌱 I’m currently learning deeply about react
-- 👯 I’m looking to study together for JS algorithm
-- 🤔 I’m looking for help with D3 and react
-- 💬 Ask me about how to add loader if your data loads slowly
-- 📫 How to reach me: orangeNewYorkCreativeAgency@gmail.com
+- 🔭 I’m currently writing a blog about CSS, grid, flexbox, styled-components
+- 🌱 I’m currently learning deeply about CSS and react
+- 👯 I’m looking to study together for CSS
+- 🤔 I’m looking for help with advanced CSS
+- 💬 Ask me about how to do basic CSS
+- 📫 How to reach me: greemjellyfish@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I make music under the name Greem Jellyfish
+- ⚡ Fun fact: I sing and make things
