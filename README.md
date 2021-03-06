@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently writing a blog about CSS, grid, flexbox, styled-components
+- 🔭 I’m currently writing a blog about CSS, grid, flexbox, styled-components https://greemjellyfish.medium.com/
 - 🌱 I’m currently learning deeply about CSS and react
 - 👯 I’m looking to study together for CSS
 - 🤔 I’m looking for help with advanced CSS
