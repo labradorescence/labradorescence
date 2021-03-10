@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about how to do basic CSS
 - 📫 How to reach me: greemjellyfish@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I sing and make things
+- ⚡ Fun fact: I sing, dance and make things
