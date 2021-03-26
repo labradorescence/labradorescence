@@ -6,11 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently writing a blog about CSS, grid, flexbox, styled-components https://greemjellyfish.medium.com/
-- 🌱 I’m currently learning deeply about CSS and react
-- 👯 I’m looking to study together for CSS
-- 🤔 I’m looking for help with advanced CSS
-- 💬 Ask me about how to do basic CSS
+- 🌱 check my company's services https://greemjellyfish.netlify.app/
+- 🔭 I’m currently writing blogs https://greemjellyfish.medium.com/
 - 📫 How to reach me: greemjellyfish@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I sing, dance and make things
