@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 - 🌱 services https://greemjellyfish.netlify.app/
 - 🔭 blogs https://greemjellyfish.medium.com/
-- 📫 greemjellyfish@gmail.com
+- 📫 orangeNewYorkCreativeAgency@gmail.com
 - 😄 She/her
