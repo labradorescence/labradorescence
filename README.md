@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 services https://greemjellyfish.netlify.app/
 - 🔭 blogs https://greemjellyfish.medium.com/
 - 📫 orangeNewYorkCreativeAgency@gmail.com
-- 😄 She/her/Ve
+- 😄 She/her/Ve/Ze
